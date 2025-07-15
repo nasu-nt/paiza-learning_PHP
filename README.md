@@ -5,7 +5,7 @@ paizaラーニングの演習問題で私が書いたコードを載せていま
 
 URLの下記太字部分　
 
-paiza.jp/works/**mondai/c_rank_level_up_problems**/problem_index?language_uid=php
+paiza.jp/works/mondai/**c_rank_level_up_problems**/problem_index?language_uid=php
 
 
 ## ファイル名命名基準
