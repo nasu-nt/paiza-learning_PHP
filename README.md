@@ -9,4 +9,4 @@ paiza.jp/works/mondai/**c_rank_level_up_problems**/problem_index?language_uid=ph
 
 
 ## ファイル名命名基準
-[順番]\_[ランク]\_[問題名]\_[点数].php
+[提出日]\_[ランク]\_[問題名]\_[点数].php
